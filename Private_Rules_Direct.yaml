@@ -1,3 +1,11 @@
+# NAME: Private_Rules_Direct
+# AUTHOR: K3vin
+# REPO: https://github.com/K3vinStudy/Private-Clash-Rules
+# UPDATED: 2025-10-02
+# DOMAIN-SUFFIX: 5
+# IP-CIDR: 23
+# TOTAL: 28
+payload:
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,bwcoa.wzu.edu.cn
   - DOMAIN-SUFFIX,wzu.edu.cn
