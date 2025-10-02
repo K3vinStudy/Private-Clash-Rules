@@ -2,13 +2,13 @@ rule-providers:
   Rules-Direct:
     type: http
     behavior: classical
-    url: "https://raw.githubusercontent.com/K3vinStudy/Private-Clash-Rules/refs/heads/main/Private_Rules_Proxy.yaml"
+    url: "https://raw.githubusercontent.com/K3vinStudy/Private-Clash-Rules/refs/heads/main/Private_Rules_Direct.yaml"
     interval: 86400
     path: ./ruleset/Rules-Direct.yaml
   Rules-Proxy:
     type: http
     behavior: classical
-    url: "https://raw.githubusercontent.com/K3vinStudy/Private-Clash-Rules/refs/heads/main/Private_Rules_Direct.yaml"
+    url: "https://raw.githubusercontent.com/K3vinStudy/Private-Clash-Rules/refs/heads/main/Private_Rules_Proxy.yaml"
     interval: 86400
     path: ./ruleset/Rules-Proxy.yaml
   AppleMusic-Direct:
