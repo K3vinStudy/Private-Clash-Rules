@@ -2,9 +2,7 @@
 # AUTHOR: K3vin
 # REPO: https://github.com/K3vinStudy/Private-Clash-Rules
 # UPDATED: 2025-10-02
-# DOMAIN-SUFFIX: 3
-# TOTAL: 3
+# DOMAIN-SUFFIX: 1
+# TOTAL: 1
 payload:
-  - DOMAIN-SUFFIX,jm18c-twie.vip
-  - DOMAIN-SUFFIX,spankbang.com
   - DOMAIN-SUFFIX,lowiro.com
