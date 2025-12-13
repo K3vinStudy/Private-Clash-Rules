@@ -1,0 +1,9 @@
+# NAME: Private_Rules_Reject
+# AUTHOR: K3vin
+# REPO: https://github.com/K3vinStudy/Private-Clash-Rules
+# UPDATED: 2025-12-13
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
+payload:
+# 别鹿，兄弟
+  - DOMAIN-SUFFIX,pixiv.net    
