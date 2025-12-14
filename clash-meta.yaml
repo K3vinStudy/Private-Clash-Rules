@@ -1,4 +1,10 @@
 rule-providers:
+  Rules-Reject:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/K3vinStudy/Private-Clash-Rules/refs/heads/main/Private_Rules_Reject.yaml"
+    interval: 86400
+    path: ./ruleset/Rules-Reject.yaml
   Rules-Direct:
     type: http
     behavior: classical
