@@ -9,3 +9,6 @@ payload:
   - DOMAIN-SUFFIX,pixiv.net
   - DOMAIN-SUFFIX,jm18c-twie.vip
   - DOMAIN-SUFFIX,spankbang.com
+
+# Mac OS APP AlDente的正版正版验证域名
+  - DOMAIN-SUFFIX,v3.paddleapi.com
