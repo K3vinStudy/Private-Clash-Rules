@@ -2,11 +2,12 @@
 # AUTHOR: K3vin
 # REPO: https://github.com/K3vinStudy/Private-Clash-Rules
 # UPDATED: 2025-12-27
-# DOMAIN-SUFFIX: 5
-# TOTAL: 5
+# DOMAIN-SUFFIX: 6
+# TOTAL: 6
 payload:
   - DOMAIN-SUFFIX,lowiro.com
   - DOMAIN-SUFFIX,flowercloud.net
   - DOMAIN-SUFFIX,yhdm6.top
   - DOMAIN-SUFFIX,dmyh6.top
   - DOMAIN-SUFFIX,yhdm666.top
+  - DOMAIN-SUFFIX,ppy.sh
