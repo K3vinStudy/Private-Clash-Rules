@@ -2,8 +2,8 @@
 # AUTHOR: K3vin
 # REPO: https://github.com/K3vinStudy/Private-Clash-Rules
 # UPDATED: 2026-3-14
-# DOMAIN-SUFFIX: 9
-# TOTAL: 9
+# DOMAIN-SUFFIX: 10
+# TOTAL: 10
 payload:
   - DOMAIN-SUFFIX,fanbox.cc
   - DOMAIN-SUFFIX,lowiro.com
@@ -14,3 +14,4 @@ payload:
   - DOMAIN-SUFFIX,ppy.sh
   - DOMAIN-SUFFIX,sega.jp
   - DOMAIN-SUFFIX,sega.com
+  - DOMAIN-SUFFIX,boheidc.cn
