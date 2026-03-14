@@ -1,9 +1,9 @@
 # NAME: Private_Rules_Proxy
 # AUTHOR: K3vin
 # REPO: https://github.com/K3vinStudy/Private-Clash-Rules
-# UPDATED: 2026-2-27
-# DOMAIN-SUFFIX: 7
-# TOTAL: 7
+# UPDATED: 2026-3-14
+# DOMAIN-SUFFIX: 9
+# TOTAL: 9
 payload:
   - DOMAIN-SUFFIX,fanbox.cc
   - DOMAIN-SUFFIX,lowiro.com
@@ -12,3 +12,5 @@ payload:
   - DOMAIN-SUFFIX,dmyh6.top
   - DOMAIN-SUFFIX,yhdm666.top
   - DOMAIN-SUFFIX,ppy.sh
+  - DOMAIN-SUFFIX,sega.jp
+  - DOMAIN-SUFFIX,sega.com
