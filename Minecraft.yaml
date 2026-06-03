@@ -1,0 +1,26 @@
+# NAME: Minecraft
+# AUTHOR: K3vin
+# REPO: https://github.com/K3vinStudy/Minecraft
+# UPDATED: 2026-6-3
+# DOMAIN: 6
+# DOMAIN-SUFFIX: 11
+
+payload:
+  # Minecraft / Microsoft account auth fix
+  - DOMAIN,api.minecraftservices.com,DIRECT
+  - DOMAIN,authserver.mojang.com,DIRECT
+  - DOMAIN,sessionserver.mojang.com,DIRECT
+  - DOMAIN,launcher.mojang.com,DIRECT
+  - DOMAIN,piston-meta.mojang.com,DIRECT
+  - DOMAIN,piston-data.mojang.com,DIRECT
+  - DOMAIN-SUFFIX,minecraft.net,DIRECT
+  - DOMAIN-SUFFIX,minecraftservices.com,DIRECT
+  - DOMAIN-SUFFIX,mojang.com,DIRECT
+  - DOMAIN-SUFFIX,mojang.net,DIRECT
+  - DOMAIN-SUFFIX,xboxlive.com,DIRECT
+  - DOMAIN-SUFFIX,xboxservices.com,DIRECT
+  - DOMAIN-SUFFIX,xbox.com,DIRECT
+  - DOMAIN-SUFFIX,live.com,DIRECT
+  - DOMAIN-SUFFIX,microsoft.com,DIRECT
+  - DOMAIN-SUFFIX,msauth.net,DIRECT
+  - DOMAIN-SUFFIX,msftauth.net,DIRECT
