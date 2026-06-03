@@ -6,7 +6,6 @@
 # DOMAIN-SUFFIX: 11
 
 payload:
-  # Minecraft / Microsoft account auth fix
   - DOMAIN,api.minecraftservices.com,DIRECT
   - DOMAIN,authserver.mojang.com,DIRECT
   - DOMAIN,sessionserver.mojang.com,DIRECT
