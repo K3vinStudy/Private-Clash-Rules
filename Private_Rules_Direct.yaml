@@ -14,8 +14,8 @@ payload:
 
   # ==== STEAM ==== #
   # ==== 进程直连 ====
-  # - PROCESS-NAME,steam.exe,DIRECT
-  - PROCESS-NAME,steamwebhelper.exe,DIRECT
+  - PROCESS-NAME,steam.exe,DIRECT
+  # - PROCESS-NAME,steamwebhelper.exe,DIRECT
   
   # ==== 通配域名直连 ====
   - DOMAIN-SUFFIX,cm.steampowered.com
