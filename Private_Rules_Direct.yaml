@@ -13,9 +13,17 @@ payload:
 
 
   # ==== STEAM ==== #
+  # ==== 进程直连 ====
+  - PROCESS-NAME,steam.exe,DIRECT
+  - PROCESS-NAME,steamwebhelper.exe,DIRECT
+  
   # ==== 通配域名直连 ====
   - DOMAIN-SUFFIX,cm.steampowered.com
-  - DOMAIN-SUFFIX,steamserver.net
+
+  - DOMAIN-SUFFIX,steamcontent.com,DIRECT
+  - DOMAIN-SUFFIX,steampowered.com,DIRECT
+  - DOMAIN-SUFFIX,steamstatic.com,DIRECT
+  - DOMAIN-SUFFIX,steamserver.net,DIRECT
 
   # ==== Steam CDN / 匹配服务器 IP段直连 ====
   - IP-CIDR,45.121.184.0/24
