@@ -5,9 +5,6 @@
 # DOMAIN-SUFFIX: 11
 # TOTAL: 11
 payload:
-  # ==== STEAM ==== #
-  - DOMAIN-SUFFIX,steamcommunity.com
-
   - DOMAIN-SUFFIX,fanbox.cc
   - DOMAIN-SUFFIX,lowiro.com
   - DOMAIN-SUFFIX,flowercloud.net
